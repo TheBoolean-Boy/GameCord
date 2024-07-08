@@ -6,7 +6,7 @@
 
 First, a machine running [Node.js](https://nodejs.org/en) and the option to clone the repository. The rest of the setup is explained in [Part 1](https://getstream.io/blog/discord-clone-project-setup/).
 
-Second, an account with Stream. We have a [free tier](https://getstream.io/pricing/#chat), and we can create an account for free using [this link](https://http://getstream.io/try-for-free/).
+Second, an account with Stream.(https://getstream.io/pricing/#chat), and we can create an account for free using [this link](https://http://getstream.io/try-for-free/).
 
 ### Running locally
 
